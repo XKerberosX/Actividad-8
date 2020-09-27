@@ -1,0 +1,16 @@
+#fn{
+position: absolute;
+top: 40%;
+left: 40%;
+color: rgb(10, 10, 10);
+height: 200px;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+#mensaje{
+    font-family: 'Bangers', cursive;
+    font-size: 400%;
+    position: absolute;
+    left: 35%;
+}
